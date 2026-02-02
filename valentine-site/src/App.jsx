@@ -349,6 +349,8 @@ Happy Valentine’s Day ❤️`;
               <li>💗 You’re my peace and my chaos (in the best way).</li>
               <li>💗 Your smile fixes everything.</li>
               <li>💗 You’re my favorite person forever.</li>
+              <li>💗 You're my favorite kiss.</li>
+              <li>💗 You’re my favorite paglu.</li>
             </ul>
           </div>
 

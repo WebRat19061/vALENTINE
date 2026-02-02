@@ -435,7 +435,7 @@ Happy Valentine’s Day ❤️`;
       </main>
 
       <footer style={styles.footer}>
-        Made with ❤️ for the most beautiful girl in the world.
+        Made with ❤️ for the most beautiful girl [My Vaishu] in the world.
       </footer>
     </div>
   );
